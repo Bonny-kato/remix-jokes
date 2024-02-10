@@ -7,3 +7,4 @@ node_modules
 .idea
 /prisma/dev.db
 http
+.vercel
